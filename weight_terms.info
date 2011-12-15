@@ -1,0 +1,4 @@
+name = Weight per Terms
+description = "Add a cck field to allow assigning weights to terms for a specific vocabulary."
+package = Our Custom Modules
+core = 6.x
